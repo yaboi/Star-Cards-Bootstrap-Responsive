@@ -15,6 +15,7 @@ Star Cards Prototype - WebApp
 |   |   x.vendor.js  
 |   +-- styles  
 |   |   x.main.css  
+|   details.html
 |   index.html  
 
 ####Folders
@@ -28,7 +29,8 @@ Star Cards Prototype - WebApp
 **scripts/vendor/x.modernizr.js:** Compiled, minified js file for [Modernizr](http://modernizr.com/)  
 **scripts/x.vendor.js:** Compiled, minified js file for basic Bootstrap functionality  
 **styles/x.main.css:** Compiled, minified CSS file containing custom and Bootstrap styles
-**index.html:** Minified HTML file with WebApps code  
+**index.html:** HTML file with WebApps code  
+**details.html:** HTML file with code for Details page of WebApp  
 
 *NOTE: This WebApp has been successfully tested in all modern browsers (Chrome 38.0.2125.122, FireFox 33.1, and Safari 8.0)*
 
