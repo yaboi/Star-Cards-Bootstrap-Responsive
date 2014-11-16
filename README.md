@@ -15,7 +15,7 @@ Star Cards Prototype - WebApp
 |   |   x.vendor.js  
 |   +-- styles  
 |   |   x.main.css  
-|   details.html
+|   details.html  
 |   index.html  
 
 ####Folders
