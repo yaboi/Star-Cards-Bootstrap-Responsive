@@ -17,6 +17,7 @@ Star Cards Prototype - WebApp
 |   |   x.main.css  
 |   details.html  
 |   index.html  
+|   search.html  
 
 ####Folders
 **dist:** Directory containing WebApp  
@@ -31,6 +32,7 @@ Star Cards Prototype - WebApp
 **styles/x.main.css:** Compiled, minified CSS file containing custom and Bootstrap styles
 **index.html:** HTML file with WebApps code  
 **details.html:** HTML file with code for Details page of WebApp  
+**search.html:** HTML file with code for Search page of WebApp  
 
 *NOTE: This WebApp has been successfully tested in all modern browsers (Chrome 38.0.2125.122, FireFox 33.1, and Safari 8.0)*
 
